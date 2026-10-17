@@ -1,8 +1,7 @@
 <!-- Add this README to a public repository named Shree7503/Shree7503. -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Shreenath Kadam — Backend Engineering, Cloud and Applied AI" />
-
-  <br />
+  <h1>👋 Shreenath Kadam</h1>
+  <p><strong>Backend Engineering • Cloud • Applied AI</strong></p>
 
   <a href="https://github.com/Shree7503"><img src="https://img.shields.io/badge/GitHub-Shree7503-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/Shree7503?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
@@ -111,8 +110,7 @@ I am interested in the intersection of **reliable infrastructure**, **language a
 
 <div align="center">
   <a href="https://github.com/Shree7503?tab=overview&from=2026-01-01&to=2026-12-31">See my contribution activity on GitHub ↗</a>
-  <br /><br />
-  <img src="./assets/footer.svg" width="100%" alt="Build. Learn. Ship. — Shreenath Kadam" />
+
 </div>
 
 <!-- RakshakAI and k8sFlow repository links were intentionally omitted because public repository URLs were not verified. Add direct links when available. -->
