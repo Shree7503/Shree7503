@@ -52,9 +52,10 @@ mission: "Build accessible, practical technology with measurable impact."
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Shree7503/NyayBot">⚖️ NyayBot</a></h3>
-  <p>Making legal rights and police procedures easier to understand through conversational interfaces.</p>
-  <a href="https://github.com/Shree7503/NyayBot"><img src="https://img.shields.io/badge/View_Repository-272022?style=flat-square&logo=github" alt="NyayBot repository" /></a>
+  <h3>🛡️ RakshakAI</h3>
+  <p>Police-backed civic technology platform providing Marathi/English AI assistance, voice support, crime reporting and FIR status workflows for citizens in rural Maharashtra.</p>
+  <img src="https://img.shields.io/badge/AI_%26_Civic_Tech-F97316?style=flat-square" alt="AI and Civic Tech" />
+  <img src="https://img.shields.io/badge/Nashik_Rural_Police-DB2777?style=flat-square" alt="Nashik Rural Police" />
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Shree7503/mindnote">🧠 mindnote</a></h3>
@@ -69,9 +70,10 @@ mission: "Build accessible, practical technology with measurable impact."
   <a href="https://github.com/Shree7503/NirvanCare"><img src="https://img.shields.io/badge/View_Repository-272022?style=flat-square&logo=github" alt="NirvanCare repository" /></a>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Shree7503/URL_Shortener">🔗 URL Shortener</a></h3>
-  <p>Full-stack application for creating short links and exploring visit tracking.</p>
-  <a href="https://github.com/Shree7503/URL_Shortener"><img src="https://img.shields.io/badge/View_Repository-272022?style=flat-square&logo=github" alt="URL Shortener repository" /></a>
+  <h3>☸️ k8sFlow</h3>
+  <p>Cloud-native Kubernetes workflow engine built with Go to translate application definitions into Deployments, Services and Ingress resources, with orchestration and readiness checks.</p>
+  <img src="https://img.shields.io/badge/Go-272022?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Kubernetes-F97316?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </td>
 </tr>
 </table>
@@ -108,9 +110,10 @@ I am interested in the intersection of **reliable infrastructure**, **language a
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shree7503&bg_color=17111A&color=FDBA74&line=F472B6&point=FB923C&area=true&hide_border=true" alt="Contribution activity graph" />
+  <a href="https://github.com/Shree7503?tab=overview&from=2026-01-01&to=2026-12-31">See my contribution activity on GitHub ↗</a>
+  <br /><br />
+  <img src="./assets/footer.svg" width="100%" alt="Build. Learn. Ship. — Shreenath Kadam" />
 </div>
 
-<p align="center"><i>Always learning. Always shipping. Always looking for problems worth solving.</i></p>
-
+<!-- RakshakAI and k8sFlow repository links were intentionally omitted because public repository URLs were not verified. Add direct links when available. -->
 <!-- To add LinkedIn or email, insert only your verified public URL/address in the badges above. External stats services may be rate-limited. -->
